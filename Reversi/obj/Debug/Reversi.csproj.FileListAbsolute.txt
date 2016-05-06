@@ -1,0 +1,28 @@
+D:\Bureau\Documents\Tai lieu PUF\C#\ Jeux Reversi\Reversi\Reversi\bin\Debug\Reversi.exe.config
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.Reversi.resources
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\bin\Debug\Reversi.exe.config
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\bin\Debug\Reversi.exe
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\bin\Debug\Reversi.pdb
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.exe
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.pdb
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\bin\Debug\Reversi.exe.config
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.pdb
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.Reversi.resources
+C:\Users\PC\Google Drive\Tai lieu PUF\C#\Projet_Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\bin\Debug\Reversi.exe.config
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\obj\Debug\Reversi.exe
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\obj\Debug\Reversi.pdb
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\obj\Debug\Reversi.Reversi.resources
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\bin\Debug\Reversi.exe
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\bin\Debug\Reversi.pdb
+D:\Bureau\Documents\Tai lieu PUF\C#\Projet_Reversi (PictureBox)\Reversi\obj\Debug\Reversi.Properties.Resources.resources
